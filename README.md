@@ -1,5 +1,3 @@
-### Weza Mwiwa
-
 Software builder from South Africa. Dark UIs, fast ships, real projects — no filler.
 
 **Featured**
